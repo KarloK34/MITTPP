@@ -63,7 +63,3 @@ You can run the tests manually using TestNG:
 - **WebDriver not found**: Ensure that the WebDriverManager setup command is included in the `setUp()` method.
 - **Element not found errors**: Inspect the website for any UI changes that might require updating locators.
 - **Chrome issues**: Ensure that the Chrome browser is updated to the latest version.
-
-## License
-This project is licensed under the MIT License.
-
